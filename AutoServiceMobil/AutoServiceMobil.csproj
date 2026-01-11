@@ -68,6 +68,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <ProjectReference Include="..\..\..\ProiectBUN\ProiectWeb-master\proiect medii bun.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <MauiXaml Update="Views\AddMecaniccPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
