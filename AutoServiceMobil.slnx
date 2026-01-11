@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="AutoServiceMobil/AutoServiceMobil.csproj" />
+  <Project Path="D:/Visual Studio/Proiect/AutoServiceMobil/AutoServiceMobil/AutoServiceMobil.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="D:/Visual Studio/ProiectBUN/ProiectWeb-master/proiect medii bun.csproj" />
 </Solution>
